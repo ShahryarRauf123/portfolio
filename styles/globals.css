@@ -1,0 +1,10 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Montserrat&display=swap');
+
+
+.active {
+    color: #64ffda;
+}
